@@ -8,7 +8,7 @@
         </a>
       </div>
       <nav class="main-nav">
-          <a class="main-nav-link" href="https://github.com/kokoroX">github</a>
+          <a class="main-nav-link" href="https://github.com/kokoroX/lagouSearch">github</a>
       </nav>
     </div>
   </header>
