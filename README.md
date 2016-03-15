@@ -1,6 +1,6 @@
-# lagouSearch 线上地址(http://xjd.aipasa.com/lagouSearch/)
+# lagouSearch
 
-> 拉勾网全文检索vue相关职业
+> 拉勾网全文检索vue相关职业 线上地址(http://xjd.aipasa.com/lagouSearch/)
 
 ## Build Setup
 
